@@ -48,3 +48,15 @@
 	background-color: black;
 	height: 100vh;
 }
+@media (max-width: 1024px) {
+	.loader1 {
+		font-size: 40px !important;
+		margin-top: -20rem;
+	}
+}
+@media (max-width: 600px) {
+	.loader1 {
+		font-size: 36px !important;
+		margin-top: -23rem;
+	}
+}
